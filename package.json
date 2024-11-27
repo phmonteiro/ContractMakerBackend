@@ -5,7 +5,6 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "test": "scripts.test"
   },
   "keywords": [
     "contract-maker",
